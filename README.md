@@ -18,7 +18,7 @@ docker compose up -d
 
 ``` bash
 
-cp .env .env
+cp .env.example .env
 ```
 
 Запуск:
