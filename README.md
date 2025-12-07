@@ -24,7 +24,7 @@ cp .env.example .env
 Запуск:
 ``` bash
 
-go run ./cmd/api
+go run ./cmd/server
 ```
 
 ## Скриншоты
